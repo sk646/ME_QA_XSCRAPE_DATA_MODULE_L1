@@ -1,0 +1,212 @@
+[
+    {
+        "wins": "31",
+        "Year": "1990",
+        "team": "Buffalo Sabres",
+        "Epoch Time": "1727930141",
+        "winPercentage": "0.388"
+    },
+    {
+        "wins": "31",
+        "Year": "1990",
+        "team": "Hartford Whalers",
+        "Epoch Time": "1727930142",
+        "winPercentage": "0.388"
+    },
+    {
+        "wins": "27",
+        "Year": "1990",
+        "team": "Minnesota North Stars",
+        "Epoch Time": "1727930142",
+        "winPercentage": "0.338"
+    },
+    {
+        "wins": "25",
+        "Year": "1990",
+        "team": "New York Islanders",
+        "Epoch Time": "1727930143",
+        "winPercentage": "0.312"
+    },
+    {
+        "wins": "16",
+        "Year": "1990",
+        "team": "Quebec Nordiques",
+        "Epoch Time": "1727930144",
+        "winPercentage": "0.2"
+    },
+    {
+        "wins": "23",
+        "Year": "1990",
+        "team": "Toronto Maple Leafs",
+        "Epoch Time": "1727930145",
+        "winPercentage": "0.287"
+    },
+    {
+        "wins": "28",
+        "Year": "1990",
+        "team": "Vancouver Canucks",
+        "Epoch Time": "1727930145",
+        "winPercentage": "0.35"
+    },
+    {
+        "wins": "26",
+        "Year": "1990",
+        "team": "Winnipeg Jets",
+        "Epoch Time": "1727930145",
+        "winPercentage": "0.325"
+    },
+    {
+        "wins": "31",
+        "Year": "1991",
+        "team": "Buffalo Sabres",
+        "Epoch Time": "1727930145",
+        "winPercentage": "0.388"
+    },
+    {
+        "wins": "31",
+        "Year": "1991",
+        "team": "Calgary Flames",
+        "Epoch Time": "1727930146",
+        "winPercentage": "0.388"
+    },
+    {
+        "wins": "26",
+        "Year": "1991",
+        "team": "Hartford Whalers",
+        "Epoch Time": "1727930151",
+        "winPercentage": "0.325"
+    },
+    {
+        "wins": "20",
+        "Year": "1991",
+        "team": "Quebec Nordiques",
+        "Epoch Time": "1727930153",
+        "winPercentage": "0.25"
+    },
+    {
+        "wins": "17",
+        "Year": "1991",
+        "team": "San Jose Sharks",
+        "Epoch Time": "1727930153",
+        "winPercentage": "0.212"
+    },
+    {
+        "wins": "30",
+        "Year": "1991",
+        "team": "Toronto Maple Leafs",
+        "Epoch Time": "1727930154",
+        "winPercentage": "0.375"
+    },
+    {
+        "wins": "26",
+        "Year": "1992",
+        "team": "Edmonton Oilers",
+        "Epoch Time": "1727930156",
+        "winPercentage": "0.31"
+    },
+    {
+        "wins": "26",
+        "Year": "1992",
+        "team": "Hartford Whalers",
+        "Epoch Time": "1727930156",
+        "winPercentage": "0.31"
+    },
+    {
+        "wins": "10",
+        "Year": "1992",
+        "team": "Ottawa Senators",
+        "Epoch Time": "1727930162",
+        "winPercentage": "0.119"
+    },
+    {
+        "wins": "11",
+        "Year": "1992",
+        "team": "San Jose Sharks",
+        "Epoch Time": "1727930163",
+        "winPercentage": "0.131"
+    },
+    {
+        "wins": "23",
+        "Year": "1992",
+        "team": "Tampa Bay Lightning",
+        "Epoch Time": "1727930164",
+        "winPercentage": "0.274"
+    },
+    {
+        "wins": "33",
+        "Year": "1993",
+        "team": "Mighty Ducks of Anaheim",
+        "Epoch Time": "1727930165",
+        "winPercentage": "0.393"
+    },
+    {
+        "wins": "25",
+        "Year": "1993",
+        "team": "Edmonton Oilers",
+        "Epoch Time": "1727930166",
+        "winPercentage": "0.298"
+    },
+    {
+        "wins": "33",
+        "Year": "1993",
+        "team": "Florida Panthers",
+        "Epoch Time": "1727930171",
+        "winPercentage": "0.393"
+    },
+    {
+        "wins": "27",
+        "Year": "1993",
+        "team": "Hartford Whalers",
+        "Epoch Time": "1727930172",
+        "winPercentage": "0.321"
+    },
+    {
+        "wins": "27",
+        "Year": "1993",
+        "team": "Los Angeles Kings",
+        "Epoch Time": "1727930172",
+        "winPercentage": "0.321"
+    },
+    {
+        "wins": "14",
+        "Year": "1993",
+        "team": "Ottawa Senators",
+        "Epoch Time": "1727930173",
+        "winPercentage": "0.167"
+    },
+    {
+        "wins": "33",
+        "Year": "1993",
+        "team": "San Jose Sharks",
+        "Epoch Time": "1727930173",
+        "winPercentage": "0.393"
+    },
+    {
+        "wins": "30",
+        "Year": "1993",
+        "team": "Tampa Bay Lightning",
+        "Epoch Time": "1727930174",
+        "winPercentage": "0.357"
+    },
+    {
+        "wins": "24",
+        "Year": "1993",
+        "team": "Winnipeg Jets",
+        "Epoch Time": "1727930174",
+        "winPercentage": "0.286"
+    },
+    {
+        "wins": "16",
+        "Year": "1994",
+        "team": "Mighty Ducks of Anaheim",
+        "Epoch Time": "1727930175",
+        "winPercentage": "0.333"
+    },
+    {
+        "wins": "17",
+        "Year": "1994",
+        "team": "Dallas Stars",
+        "Epoch Time": "1727930175",
+        "winPercentage": "0.354"
+    }
+]
